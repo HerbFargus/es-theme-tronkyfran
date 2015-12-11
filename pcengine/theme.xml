@@ -5,7 +5,7 @@
 	<view name="system">
 
 		<image name="background" extra="true">
-			<path>./art/tg16_art_blur.jpg</path>
+			<path>./art/pcengine_art_blur.jpg</path>
 		</image>
 
 		<image name="logo">
