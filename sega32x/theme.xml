@@ -18,7 +18,7 @@
 		</helpsystem>
 	</view>
 
-	<view name="basic, detailed">
+	<view name="basic, detailed, video">
 	
 		<text name="system_name_1" extra="true">
 			<text>SEGA</text>
