@@ -13,8 +13,8 @@
         </image>
 		
 		<helpsystem name="help">
-			<textColor>00000088</textColor>
-			<iconColor>00000088</iconColor>
+			<textColor>ffffff88</textColor>
+			<iconColor>ffffff88</iconColor>
 		</helpsystem>
 		
 	</view>
