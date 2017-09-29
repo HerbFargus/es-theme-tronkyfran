@@ -12,10 +12,10 @@ For use with [EmulationStation](http://www.emulationstation.org/).
 
 This theme is available in 4 variations:
 
-1. [`tronkyfran`](1): default + full sized images (suitable for **desktops**)
-2. [`tronkyfran-optimized`](2): default + optimized images (suitable for **Retropie Pi3**)
-3. [`tronkyfran-dark`](3): dark + full sized images (suitable for **desktops**)
-4. [`tronkyfran-dark-optimized`](4): dark + optimized images (suitable for **Retropie Pi3**)
+1. [`tronkyfran`][1]: default + full sized images (suitable for **desktops**)
+2. [`tronkyfran-optimized`][2]: default + optimized images (suitable for **Retropie Pi3**)
+3. [`tronkyfran-dark`][3]: dark + full sized images (suitable for **desktops**)
+4. [`tronkyfran-dark-optimized`][4]: dark + optimized images (suitable for **Retropie Pi3**)
 
 [1]: https://github.com/HerbFargus/es-theme-tronkyfran
 [2]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/optimized
