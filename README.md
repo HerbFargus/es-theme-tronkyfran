@@ -25,7 +25,9 @@ This theme is available in 4 variations:
 ## Changelog
 
 29-09-2017
+v1.5 update
 - introduced `dark`, `optimized` and `optimized-dark` variations
+- fixed info/help text colors
 
 03-08-2015
 v1.4 update
