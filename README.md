@@ -34,6 +34,7 @@ Close EmulationStation and run in a terminal:
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
 
+    cd ~/.emulationstation/themes/tronkyfran
     git pull
 
 ## Changelog
