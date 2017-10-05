@@ -24,6 +24,11 @@ This theme is available in 4 variations:
 
 ## Changelog
 
+05-10-2017
+v1.6 update
+- added systems:
+  SEGA Saturn
+
 29-09-2017
 v1.5 update
 - introduced `dark`, `optimized` and `optimized-dark` variations
@@ -81,7 +86,6 @@ The following platforms are using default `simple` images:
 - dragon32
 - neogeocd
 - pcx68000
-- saturn
 - virtualboy
 - wii
 - wonderswan
