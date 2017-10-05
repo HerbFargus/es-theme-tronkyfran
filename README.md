@@ -1,4 +1,4 @@
-# Tronkyfran Themes for emulationstation
+# Tronkyfran Themes for EmulationStation
 
 ![Arcade banner](mame/art/mame_art_blur.jpg)
 
@@ -21,6 +21,20 @@ This theme is available in 4 variations:
 [2]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/optimized
 [3]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/dark
 [4]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/dark-optimized
+
+## Install `tronkyfran-dark`
+
+Close EmulationStation and run in a terminal:
+
+    mkdir -p ~/.emulationstation/themes
+    cd ~/.emulationstation/themes
+    git clone https://github.com/HerbFargus/es-theme-tronkyfran.git --branch dark-optimized --single-branch tronkyfran-dark-optimized
+
+### Update
+
+In order to update your installed theme (if you installed with above instructions), open a terminal and run:
+
+    git pull
 
 ## Changelog
 
