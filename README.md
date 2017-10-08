@@ -2,11 +2,7 @@
 
 ![Arcade banner](mame/art/mame_art_blur.jpg)
 
-Theme `tronkyfran` and variations by Tronkyfran and Herb Fargus.
-
-Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
-
-For use with [EmulationStation](http://www.emulationstation.org/).
+Theme `tronkyfran` and variations for use with [EmulationStation](http://www.emulationstation.org/).
 
 ## Variations
 
@@ -22,7 +18,7 @@ This theme is available in 4 variations:
 [3]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/dark
 [4]: https://github.com/HerbFargus/es-theme-tronkyfran/tree/dark-optimized
 
-## Install `tronkyfran-dark`
+## Install `tronkyfran-optimized`
 
 Close EmulationStation and run in a terminal:
 
@@ -34,63 +30,12 @@ Close EmulationStation and run in a terminal:
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
 
-    cd ~/.emulationstation/themes/tronkyfran-optimized
+    cd ~/.emulationstation/themes/tronkyfran
     git pull
 
 ## Changelog
 
-05-10-2017
-v1.6 update
-- added systems:
-  SEGA Saturn
-
-29-09-2017
-v1.5 update
-- introduced `dark`, `optimized` and `optimized-dark` variations
-- fixed info/help text colors
-
-03-08-2015
-v1.4 update
-- added systems:
-  SNK Neo Geo CD
-  Magnavox Odyssey 2
-  GCE Vectrex
-  Nintendo Virtual Boy
-  Bandai WonderSwan
-  Bandai WonderSwan Color
-  Atari Lynx
-  Nintendo Family Computer
-  Nintendo Super Famicom
-  SEGA Genesis
-
-- updated systems:
-  SEGA Mega Drive (showed Genesis logo and text)
-  MSX (wrong path to SVG)
-
-11-29-2014
-v1.3 update
-- added systems:
-  MSX
-
-10-03-2014
-v1.2 update
-- reduced resolution of blurred images to 720p, no visible change due to the blur. This decreases the amount of used VRAM by approx. 50 percent! very good for the Raspberry Pi build of EmulationStation.
-- optimized some blurred system background images where banding occurred.
-
-08-17-2014
-v1.1 update
-- added systems:
-  Microsoft XBox
-  SEGA Saturn
-  SEGA Dreamcast
-  Nintendo DS
-  Nintendo Wii
-  Sony PlayStation
-  Sony PlayStation Portable
-
-06-16-2014
-v1.0 Initial version
-
+Please, check [changelog](changelog.txt) file.
 
 ## Missing systems in the theme
 
@@ -115,6 +60,11 @@ The following platforms are using default `simple` images:
 - wiiu
 - xbox360
 
+## Credits
+
+Theme `tronkyfran` and variations by Tronkyfran, [Herb Fargus](https://github.com/HerbFargus) and [Rael G.C.](https://github.com/raelgc/).
+
+Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
 
 ## License
 
