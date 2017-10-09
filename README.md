@@ -66,7 +66,7 @@ The following platforms are using default `simple` images:
 
 ## Credits
 
-Theme `tronkyfran` and variations by Tronkyfran, [Herb Fargus](https://github.com/HerbFargus) and [Rael G.C.](https://github.com/raelgc/).
+Theme `tronkyfran` and variations by [Tronkyfran](https://github.com/tronkyfran), [Herb Fargus](https://github.com/HerbFargus) and [Rael G.C.](https://github.com/raelgc/).
 
 Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
 
