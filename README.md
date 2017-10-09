@@ -33,7 +33,7 @@ This theme is available in 4 variations:
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
 
-    cd ~/.emulationstation/themes/tronkyfran
+    cd ~/.emulationstation/themes/tronkyfran-optimized
     git pull
 
 ## Changelog
