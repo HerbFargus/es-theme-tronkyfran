@@ -20,17 +20,20 @@ This theme is available in 4 variations:
 
 ## Install `tronkyfran-dark-optimized`
 
-Close EmulationStation and run in a terminal:
+1. Close EmulationStation.
 
-    mkdir -p ~/.emulationstation/themes
-    cd ~/.emulationstation/themes
-    git clone https://github.com/HerbFargus/es-theme-tronkyfran.git --branch dark-optimized --single-branch tronkyfran-dark-optimized
+2. Create folder `~/.emulationstation/themes` if it does not exist.
+
+3. Run in a terminal:
+
+       cd ~/.emulationstation/themes
+       git clone https://github.com/HerbFargus/es-theme-tronkyfran.git --branch dark-optimized --single-branch tronkyfran-dark-optimized
 
 ### Update
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
 
-    cd ~/.emulationstation/themes/tronkyfran
+    cd ~/.emulationstation/themes/tronkyfran-dark-optimized
     git pull
 
 ## Changelog
@@ -63,7 +66,7 @@ The following platforms are using default `simple` images:
 
 ## Credits
 
-Theme `tronkyfran` and variations by Tronkyfran, [Herb Fargus](https://github.com/HerbFargus) and [Rael G.C.](https://github.com/raelgc/).
+Theme `tronkyfran` and variations by [Tronkyfran](https://github.com/tronkyfran), [Herb Fargus](https://github.com/HerbFargus) and [Rael G.C.](https://github.com/raelgc/).
 
 Based on `simple v1.4 - 03-08-2015` by © [Nils Bonenberger](http://blog.nilsbyte.de/).
 
