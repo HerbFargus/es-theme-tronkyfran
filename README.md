@@ -22,7 +22,7 @@ This theme is available in 4 variations:
 
 1. Close EmulationStation.
 
-2. Create folder `~/.emulationstation/themes` if not exists.
+2. Create folder `~/.emulationstation/themes` if it does not exist.
 
 3. Run in a terminal:
 
