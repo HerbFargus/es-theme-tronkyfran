@@ -50,7 +50,6 @@ The following platforms are using default `simple` images:
 - neogeocd
 - pcx68000
 - virtualboy
-- wii
 - wonderswan
 - xbox
 
