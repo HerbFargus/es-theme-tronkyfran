@@ -1,3 +1,11 @@
+16-10-2017
+v1.7 update
+- added systems:
+  Nintendo Wii
+
+- updated systems:
+  Sega CD (hidding Genesis logo)
+
 05-10-2017
 v1.6 update
 - added systems:
