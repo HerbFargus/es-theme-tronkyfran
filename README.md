@@ -87,6 +87,10 @@ REQUIREMENTS:
 PROHIBITED:   
 - Commercial distribution
 
+Contains SVG icons from Font Awesome. Licensed under CC-BY 4.0.
+Contains SVG paths from Open Sans font licensed under Apache License
+2.0.
+
 ### Logo Notice
 
 The used logos and trademarks are copyright of their respective owners.
