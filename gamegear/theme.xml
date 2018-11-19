@@ -44,7 +44,7 @@
 		</text>
 
 		<image name="logo">
-			<path>./art/gg.svg</path>
+			<path>./art/gg-dark.png</path>
 			<pos>0.025 0.079</pos>
 			<maxSize>0.55 0.1</maxSize>
 			<origin>0 0.5</origin>
