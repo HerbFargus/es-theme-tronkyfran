@@ -21,7 +21,6 @@ license:		creative commons CC-BY-NC-SA
         <maxSize>0.290 0.352</maxSize>
         <origin>0 0</origin>
         <delay>0.2</delay>
-        <default />
         <showSnapshotNoVideo>true</showSnapshotNoVideo>
         <showSnapshotDelay>false</showSnapshotDelay>
       </video>
